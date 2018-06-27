@@ -1,1 +1,27 @@
+.timeline-Widget {background-color:#3b3b3b; max-width: 250px;}
 
+.timeline-Header-title { font-size: 18px; color: #9da6af;}
+
+.timeline-Tweet-text {font-size=12px; color: #ffffff;}
+
+.TweetAuthor-name {    font-size: 14px; line-height: 18px; color: #acc;}
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #888; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+}
